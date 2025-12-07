@@ -10,4 +10,4 @@ function  afegirNom(nom) {
 }
 
 afegirNom("");
-afegirNom("Miriam");
+afegirNom("Marta");
